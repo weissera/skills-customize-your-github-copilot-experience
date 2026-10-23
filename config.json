@@ -65,6 +65,13 @@
       "description": "Build a REST API with FastAPI, including CRUD routes, request validation, and HTTP status codes.",
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-10-30"
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "Persisting FastAPI Data with SQLite",
+      "description": "Extend a FastAPI task API with SQLite storage so task data persists across application restarts.",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "dueDate": "2026-10-30"
     }
   ]
 }
